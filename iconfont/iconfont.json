@@ -1,0 +1,23 @@
+{
+  "id": "3113785",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16931604",
+      "name": "半星",
+      "font_class": "banxing",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "6529908",
+      "name": "星星",
+      "font_class": "xingxing",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    }
+  ]
+}
